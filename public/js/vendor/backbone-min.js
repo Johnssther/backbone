@@ -2092,12 +2092,6 @@
     };
   };
 
-while (true) {
-    console.log('Te quiero mucho :v');
-
-    if (jhon.age > steffy.age) return false;
-}
-
-
+  
   return Backbone;
 });
